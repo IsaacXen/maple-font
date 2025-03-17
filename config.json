@@ -1,9 +1,9 @@
 {
   "$schema": "./source/schema.json",
-  "family_name": "Maple Mono",
+  "family_name": "Maple Mono Custom",
   "use_hinted": true,
   "pool_size": 4,
-  "enable_liga": true,
+  "ligature": false,
   "feature_freeze": {
     "cv01": "enable",
     "cv02": "enable",
